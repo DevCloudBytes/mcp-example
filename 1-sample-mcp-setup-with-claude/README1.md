@@ -122,3 +122,21 @@ Tool processing logs:
 2025-06-19 13:28:42,003 - INFO - Processing request of type CallToolRequest
 2025-06-19 13:28:42,006 - INFO - Result: distance=0.35m, hit=False
 ```
+
+### Troubleshooting
+
+- checking for SSE endpoint
+  ```
+  http://127.0.0.1:7860/gradio_api/mcp/sse
+  ```
+
+- checking for mcp interface
+```
+http://127.0.0.1:7860
+```
+
+- checking health status for gradio
+  
+```
+https://status.gradio.app/
+```
