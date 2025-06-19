@@ -133,3 +133,9 @@
 2025-06-19 17:39:50,448 - INFO - Processing request of type ListPromptsRequest
 2025-06-19 18:43:13,385 - INFO - Processing request of type ListResourcesRequest
 2025-06-19 18:43:14,676 - INFO - Processing request of type ListPromptsRequest
+2025-06-19 19:01:31,311 - INFO - ==================================================
+2025-06-19 19:01:31,311 - INFO - Projectile Calculator Server v1.0
+2025-06-19 19:01:31,312 - INFO - Started at 2025-06-19 19:01:31.312529
+2025-06-19 19:01:31,312 - INFO - ==================================================
+2025-06-19 19:01:32,124 - INFO - StreamableHTTP session manager started
+2025-06-19 19:01:32,374 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
