@@ -1,0 +1,135 @@
+2025-06-19 13:22:51,134 - INFO - StreamableHTTP session manager started
+2025-06-19 13:22:51,609 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-06-19 13:22:53,620 - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-06-19 13:22:55,680 - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2025-06-19 13:22:56,522 - INFO - HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2025-06-19 13:24:16,626 - INFO - Processing request of type ListToolsRequest
+2025-06-19 13:24:16,633 - INFO - Processing request of type ListResourcesRequest
+2025-06-19 13:24:16,636 - INFO - Processing request of type ListToolsRequest
+2025-06-19 13:24:16,654 - INFO - Processing request of type ListPromptsRequest
+2025-06-19 13:24:35,999 - INFO - Processing request of type CallToolRequest
+2025-06-19 13:24:36,001 - INFO - Result: distance=0.35m, hit=False
+2025-06-19 13:26:05,349 - INFO - StreamableHTTP session manager shutting down
+2025-06-19 13:26:15,087 - INFO - StreamableHTTP session manager started
+2025-06-19 13:26:15,458 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-06-19 13:26:17,583 - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-06-19 13:26:19,645 - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2025-06-19 13:26:20,493 - INFO - HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2025-06-19 13:26:37,954 - INFO - Processing request of type ListToolsRequest
+2025-06-19 13:26:37,960 - INFO - Processing request of type ListToolsRequest
+2025-06-19 13:26:37,965 - INFO - Processing request of type ListResourcesRequest
+2025-06-19 13:26:37,989 - INFO - Processing request of type ListPromptsRequest
+2025-06-19 13:26:51,302 - INFO - Processing request of type CallToolRequest
+2025-06-19 13:26:51,306 - INFO - Result: distance=0.35m, hit=False
+2025-06-19 13:27:49,707 - INFO - StreamableHTTP session manager shutting down
+2025-06-19 13:27:58,343 - INFO - StreamableHTTP session manager started
+2025-06-19 13:27:58,614 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-06-19 13:28:00,754 - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-06-19 13:28:02,823 - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2025-06-19 13:28:03,757 - INFO - HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2025-06-19 13:28:15,923 - INFO - Processing request of type ListToolsRequest
+2025-06-19 13:28:15,933 - INFO - Processing request of type ListToolsRequest
+2025-06-19 13:28:15,964 - INFO - Processing request of type ListResourcesRequest
+2025-06-19 13:28:16,012 - INFO - Processing request of type ListPromptsRequest
+2025-06-19 13:28:42,003 - INFO - Processing request of type CallToolRequest
+2025-06-19 13:28:42,006 - INFO - Result: distance=0.35m, hit=False
+2025-06-19 13:33:22,909 - INFO - StreamableHTTP session manager shutting down
+2025-06-19 13:33:37,119 - INFO - ==================================================
+2025-06-19 13:33:37,119 - INFO - Projectile Calculator Server v1.0
+2025-06-19 13:33:54,894 - INFO - ==================================================
+2025-06-19 13:33:54,894 - INFO - Projectile Calculator Server v1.0
+2025-06-19 13:34:24,382 - INFO - ==================================================
+2025-06-19 13:34:24,382 - INFO - Projectile Calculator Server v1.0
+2025-06-19 13:35:57,180 - INFO - ==================================================
+2025-06-19 13:35:57,180 - INFO - Projectile Calculator Server v1.0
+2025-06-19 13:35:57,181 - INFO - Started at 2025-06-19 13:35:57.181187
+2025-06-19 13:35:57,181 - INFO - ==================================================
+2025-06-19 13:35:57,902 - INFO - StreamableHTTP session manager started
+2025-06-19 13:35:58,338 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-06-19 13:36:00,370 - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-06-19 13:36:02,449 - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2025-06-19 13:36:03,248 - INFO - HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2025-06-19 13:36:32,766 - INFO - StreamableHTTP session manager shutting down
+2025-06-19 13:36:40,329 - INFO - ==================================================
+2025-06-19 13:36:40,329 - INFO - Projectile Calculator Server v1.0
+2025-06-19 13:36:40,329 - INFO - Started at 2025-06-19 13:36:40.329038
+2025-06-19 13:36:40,329 - INFO - ==================================================
+2025-06-19 13:36:40,995 - INFO - StreamableHTTP session manager started
+2025-06-19 13:36:41,320 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-06-19 13:36:43,479 - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-06-19 13:36:45,558 - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2025-06-19 13:36:46,382 - INFO - HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2025-06-19 13:38:06,418 - INFO - ==================================================
+2025-06-19 13:38:06,418 - INFO - Projectile Calculator Server v1.0
+2025-06-19 13:38:06,418 - INFO - Started at 2025-06-19 13:38:06.418345
+2025-06-19 13:38:06,418 - INFO - ==================================================
+2025-06-19 13:38:07,056 - INFO - StreamableHTTP session manager started
+2025-06-19 13:38:07,599 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-06-19 13:38:09,512 - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-06-19 13:38:11,574 - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2025-06-19 13:38:12,454 - INFO - HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2025-06-19 13:38:57,798 - INFO - ==================================================
+2025-06-19 13:38:57,798 - INFO - Projectile Calculator Server v1.0
+2025-06-19 13:38:57,799 - INFO - Started at 2025-06-19 13:38:57.799259
+2025-06-19 13:38:57,799 - INFO - ==================================================
+2025-06-19 13:38:58,544 - INFO - StreamableHTTP session manager started
+2025-06-19 13:38:58,922 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-06-19 13:39:00,971 - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-06-19 13:39:03,061 - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2025-06-19 13:39:03,915 - INFO - HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2025-06-19 13:39:10,313 - INFO - Processing request of type ListToolsRequest
+2025-06-19 13:39:10,317 - INFO - Processing request of type ListToolsRequest
+2025-06-19 13:39:10,320 - INFO - Processing request of type ListResourcesRequest
+2025-06-19 13:39:10,347 - INFO - Processing request of type ListPromptsRequest
+2025-06-19 13:39:28,147 - INFO - Processing request of type CallToolRequest
+2025-06-19 13:39:28,150 - INFO - Result: distance=0.35m, hit=False
+2025-06-19 13:49:10,348 - INFO - Processing request of type ListResourcesRequest
+2025-06-19 13:49:10,363 - INFO - Processing request of type ListPromptsRequest
+2025-06-19 13:59:10,337 - INFO - Processing request of type ListResourcesRequest
+2025-06-19 13:59:10,348 - INFO - Processing request of type ListPromptsRequest
+2025-06-19 14:09:10,343 - INFO - Processing request of type ListResourcesRequest
+2025-06-19 14:09:10,354 - INFO - Processing request of type ListPromptsRequest
+2025-06-19 14:19:10,339 - INFO - Processing request of type ListResourcesRequest
+2025-06-19 14:19:10,345 - INFO - Processing request of type ListPromptsRequest
+2025-06-19 14:29:10,335 - INFO - Processing request of type ListResourcesRequest
+2025-06-19 14:29:10,344 - INFO - Processing request of type ListPromptsRequest
+2025-06-19 14:39:10,343 - INFO - Processing request of type ListResourcesRequest
+2025-06-19 14:39:10,349 - INFO - Processing request of type ListPromptsRequest
+2025-06-19 14:49:50,336 - INFO - Processing request of type ListResourcesRequest
+2025-06-19 14:49:50,455 - INFO - Processing request of type ListPromptsRequest
+2025-06-19 14:59:50,343 - INFO - Processing request of type ListResourcesRequest
+2025-06-19 14:59:50,451 - INFO - Processing request of type ListPromptsRequest
+2025-06-19 15:09:50,341 - INFO - Processing request of type ListResourcesRequest
+2025-06-19 15:09:50,434 - INFO - Processing request of type ListPromptsRequest
+2025-06-19 15:19:50,367 - INFO - Processing request of type ListResourcesRequest
+2025-06-19 15:19:50,476 - INFO - Processing request of type ListPromptsRequest
+2025-06-19 15:29:50,336 - INFO - Processing request of type ListResourcesRequest
+2025-06-19 15:29:50,461 - INFO - Processing request of type ListPromptsRequest
+2025-06-19 15:39:50,340 - INFO - Processing request of type ListResourcesRequest
+2025-06-19 15:39:50,434 - INFO - Processing request of type ListPromptsRequest
+2025-06-19 15:49:50,345 - INFO - Processing request of type ListResourcesRequest
+2025-06-19 15:49:50,480 - INFO - Processing request of type ListPromptsRequest
+2025-06-19 15:59:50,337 - INFO - Processing request of type ListResourcesRequest
+2025-06-19 15:59:50,422 - INFO - Processing request of type ListPromptsRequest
+2025-06-19 16:09:50,339 - INFO - Processing request of type ListResourcesRequest
+2025-06-19 16:09:50,433 - INFO - Processing request of type ListPromptsRequest
+2025-06-19 16:19:50,346 - INFO - Processing request of type ListResourcesRequest
+2025-06-19 16:19:50,479 - INFO - Processing request of type ListPromptsRequest
+2025-06-19 16:29:50,340 - INFO - Processing request of type ListResourcesRequest
+2025-06-19 16:29:50,432 - INFO - Processing request of type ListPromptsRequest
+2025-06-19 16:39:50,346 - INFO - Processing request of type ListResourcesRequest
+2025-06-19 16:39:50,455 - INFO - Processing request of type ListPromptsRequest
+2025-06-19 16:49:50,338 - INFO - Processing request of type ListResourcesRequest
+2025-06-19 16:49:50,492 - INFO - Processing request of type ListPromptsRequest
+2025-06-19 16:59:50,352 - INFO - Processing request of type ListResourcesRequest
+2025-06-19 16:59:50,554 - INFO - Processing request of type ListPromptsRequest
+2025-06-19 17:09:50,339 - INFO - Processing request of type ListResourcesRequest
+2025-06-19 17:09:50,444 - INFO - Processing request of type ListPromptsRequest
+2025-06-19 17:19:50,339 - INFO - Processing request of type ListResourcesRequest
+2025-06-19 17:19:50,541 - INFO - Processing request of type ListPromptsRequest
+2025-06-19 17:29:50,375 - INFO - Processing request of type ListResourcesRequest
+2025-06-19 17:29:50,563 - INFO - Processing request of type ListPromptsRequest
+2025-06-19 17:39:50,335 - INFO - Processing request of type ListResourcesRequest
+2025-06-19 17:39:50,448 - INFO - Processing request of type ListPromptsRequest
+2025-06-19 18:43:13,385 - INFO - Processing request of type ListResourcesRequest
+2025-06-19 18:43:14,676 - INFO - Processing request of type ListPromptsRequest
