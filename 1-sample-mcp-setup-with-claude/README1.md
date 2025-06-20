@@ -160,6 +160,9 @@ https://reponame-spacename.hf.space/gradio_api/mcp/sse
 https://njain50-devcloudbytes.hf.space/gradio_api/mcp/sse
 
 ```
+- huggigface repo
+![alt text](image-2.png)
+
 - we can verify, it would be pingable now
 ```
 https://njain50-devcloudbytes.hf.space/gradio_api/mcp/sse
